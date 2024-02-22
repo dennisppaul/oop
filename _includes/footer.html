@@ -6,7 +6,7 @@
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
-          <li class="p-name">
+            <li class="p-name">
             {%- if site.author -%}
               {{ site.author | escape }}
             {%- else -%}
@@ -14,13 +14,14 @@
             {%- endif -%}
             </li>
             {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            <li>
+                <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
+            </li>
             {%- endif -%}
+            <li class="footer-col footer-col-2">
+                {%- include social.html -%}
+            </li>
         </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
-        {%- include social.html -%}
       </div>
 
 <!-- 
