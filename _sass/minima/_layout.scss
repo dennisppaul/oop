@@ -427,3 +427,20 @@ sup {
     width: 100%;
     height: 100%;
 }
+
+// cleaning up front page
+
+.post-list h1:before {
+    content: "";
+    margin-left: 0em;
+}
+
+.post-list li:before {
+  content: "";
+  position: absolute;
+}
+
+.home h1:before {
+    content: "";
+    margin-left: 0em;
+}
