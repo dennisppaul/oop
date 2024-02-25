@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Solid State Watch"
+title:  "CW&T: Solid State Watch"
 date:   2024-02-27 10:00:00 +0100
 ---
 

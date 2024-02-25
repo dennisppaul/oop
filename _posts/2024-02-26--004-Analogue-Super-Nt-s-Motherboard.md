@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Analogue Nt’s Motherboard"
+title:  "Analogue: Super Nt’s Motherboard"
 date:   2024-02-26 10:00:00 +0100
 ---
 
@@ -12,4 +12,4 @@ a bit late to the game maybe but i am just really blown away by this PCB design 
 
 from a quick glance it appears as if they used a transparent lack on the soldermask layer
 
-[Analogue Nt ‘s Motherboard Showcased](https://www.ubergizmo.com/2015/01/analogue-nt-s-motherboard-showcased/)
+[Analogue Nt’s Motherboard Showcased](https://www.ubergizmo.com/2015/01/analogue-nt-s-motherboard-showcased/)

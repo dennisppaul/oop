@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Playdate"
+title:  "Panic: Playdate"
 date:   2024-02-23 10:00:00 +0100
 ---
 
