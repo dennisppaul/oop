@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Analogue: Super Nt’s Motherboard"
-date:   2024-02-26 10:00:00 +0100
+date:   2024-02-26 09:14:00 +0100
 ---
 
 ![https://duet-cdn.vox-cdn.com/thumbor/0x0:1200x800/2400x1599/filters:focal(600x400:601x401):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/3825440/pcb-4.0.jpg](/assets/pcb-4.0.jpg)
