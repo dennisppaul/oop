@@ -10,7 +10,7 @@ on:
 #             │ │ │ │ ┌───────────── day of the week (0 - 6 or SUN-SAT)
 #             │ │ │ │ │
 #             * * * * *
-    - cron: '20 8 * * *' # Runs every day at 3am
+    - cron: '22 9 * * *' # Runs every day at 09:20 UTC or 08:20 at UTC+1
 
 jobs:
   refresh:
