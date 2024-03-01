@@ -4,7 +4,7 @@ title:  "Maywa Denki: Otamatone"
 date:   2024-03-01 10:00:00 +0100
 ---
 
-![https://imagedelivery.net/QondspN4HIUvB_R16-ddAQ/52d7d6f3236a1e0ea5000023/851c5f9f2722756ba194.jpeg/fit=cover,w=920,h=920](/assets/52d7d6f3236a1e0ea5000023/851c5f9f2722756ba194.jpeg)
+![https://imagedelivery.net/QondspN4HIUvB_R16-ddAQ/52d7d6f3236a1e0ea5000023/851c5f9f2722756ba194.jpeg/fit=cover,w=920,h=920](/assets/851c5f9f2722756ba194.jpeg)
 
 @source([Maywa Denki: Otamatone](https://maywadenki.stores.jp/items/590074a61f43753a850008db), @date(2024-03-01))
 
