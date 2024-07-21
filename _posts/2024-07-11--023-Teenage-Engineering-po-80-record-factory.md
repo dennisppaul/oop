@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Teenage Engineering: PO-80 record factory"
-date:   2024-05-08 07:00:00 +0100
+date:   2024-07-11 07:00:00 +0100
 ---
 
 ![https://teenage.engineering/_img/63243b059e6b50215b4ef644_2048.png](/assets/63243b059e6b50215b4ef644_2048.png)
