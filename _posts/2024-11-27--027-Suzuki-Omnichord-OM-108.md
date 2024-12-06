@@ -4,7 +4,7 @@ title:  "Suzuki: Omnichord OM-108"
 date:   2024-11-27 06:00:00 +0100
 ---
 
-![https://www.suzukimusic.co.uk/products/omnichord/images/OM-108_1024.jpg](/assets/OM-108_1024.jpg)
+![https://www.suzukimusic.co.uk/products/omnichord/images/OM-108_1024.jpg]({{ "/assets/OM-108_1024.jpg" | relative_url }})
 
 @source([Suzuki: Omnichord OM-108](https://www.suzukimusic.co.uk/products/omnichord/index.html), @date(2024-11-27)
 
