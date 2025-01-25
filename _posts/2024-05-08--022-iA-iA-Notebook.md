@@ -6,7 +6,7 @@ date:   2024-05-08 07:00:00 +0100
 
 ![https://store.ia.net/cdn/shop/files/DSCF1128-1-scaled-1.jpg?v=1713335461&width=1445](/assets/DSCF1128-1-scaled-1.jpg.webp)
 
-@source([iA: iA Notebook](https://store.ia.net/products/ia-notebook-the-notebook-for-writers), @date(2024-05-08)
+@source([iA: iA Notebook](https://store.ia.net/products/ia-notebook-the-notebook-for-writers), @date(2024-05-08))
 
 > # iA ノートブック The Notebook for Writers
 > 

@@ -6,7 +6,7 @@ date:   2024-07-11 07:00:00 +0100
 
 ![https://teenage.engineering/_img/63243b059e6b50215b4ef644_2048.png](/assets/63243b059e6b50215b4ef644_2048.png)
 
-@source([Teenage Engineering: PO-80 record factory](https://teenage.engineering/products/po-80), @date(2024-07-11)
+@source([Teenage Engineering: PO-80 record factory](https://teenage.engineering/products/po-80), @date(2024-07-11))
 
 > make your own vinyl records!
 > 
